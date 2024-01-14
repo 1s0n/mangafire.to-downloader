@@ -1,12 +1,8 @@
-# Mangareader-Downloader-v2
+# Mangafire Downloader
 
-#### ~~Make a batch downloader~~
-#### ~~Make the batch downloader less sketchy~~
-#### Better support for chapters
-#### Make better gui
-This is a updated and improved version of [my old mangareader download](https://github.com/1s0n/Mangareader.to-downloader)
-I am hoping to add gui to this soon
-#### I will compile binaries for MacOS soon, and I do not access to a windows computer right now, so I will compile for windows and linux in the future when I get back
+This is a ported version of [Mangareader.to Downloader](https://github.com/1s0n/Mangareader-Downloader-v2/)
+
+# This does not work right now
 #### Please create an issue for feature requests
 ## How to run with GUI
 ### NOTE: The gui has pretty bad performance, so everything will take a while to load.
