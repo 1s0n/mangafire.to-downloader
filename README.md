@@ -2,20 +2,7 @@
 
 This is a ported version of [Mangareader.to Downloader](https://github.com/1s0n/Mangareader-Downloader-v2/)
 
-# This does not work right now, the security on mangafire is pretty fucking good, so it is quite hard to get css selectors and shit about the website like cookies. Thus it will take a few days before this port works
-#### Please create an issue for feature requests
-## How to run with GUI
-### NOTE: The gui has pretty bad performance, so everything will take a while to load.
-TO run the gui, just make sure you have python installed and added to PATH, and run 
-```
-python3 gui.py
-```
-if that doesnt work, run
-```
-python gui.py
-```
-for the url, please enter the front page of the manga, eg. https://mangareader.to/the-dangers-in-my-heart-1859, or the program will just quit.
-
+# This does not work right now, but I have noticed that the images are not scrambled like mangareader.to, so I will now scrape the images instead of downloading them one by one like a user.
 
 ## How to run via terminal
 To use this, ensure you have chromedriver_autoinstaller, selenium and PyMuPDF installed using pip, install them with command
