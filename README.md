@@ -2,7 +2,7 @@
 
 This is a ported version of [Mangareader.to Downloader](https://github.com/1s0n/Mangareader-Downloader-v2/)
 
-# This does not work right now
+# This does not work right now, the security on mangafire is pretty fucking good, so it is quite hard to get css selectors and shit about the website like cookies. Thus it will take a few days before this port works
 #### Please create an issue for feature requests
 ## How to run with GUI
 ### NOTE: The gui has pretty bad performance, so everything will take a while to load.
